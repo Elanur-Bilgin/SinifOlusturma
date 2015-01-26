@@ -1,0 +1,226 @@
+# depslib dependency file v1.0
+1369245759 source:c:\users\pc\desktop\yolla\bilgisayar.cpp
+	"String.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	"bilgisayar.h"
+
+1369863898 c:\users\pc\desktop\yolla\string.h
+	<iostream>
+
+1369245759 c:\users\pc\desktop\yolla\bilgisayar.h
+	"String.h"
+
+1369949241 source:c:\users\pc\desktop\yolla\main.cpp
+	<iostream>
+	"ogrenci.h"
+	"String.h"
+	"ogrenci_dizisi.h"
+	<stdio.h>
+
+1369247978 c:\users\pc\desktop\yolla\ogrenci.h
+	"String.h"
+	"tarih.h"
+	"bilgisayar.h"
+
+1369248322 c:\users\pc\desktop\yolla\tarih.h
+	"String.h"
+	<iostream>
+
+1369245587 c:\users\pc\desktop\yolla\ogrenci_dizisi.h
+
+1369949576 source:c:\users\pc\desktop\yolla\ogrenci.cpp
+	"ogrenci.h"
+	<iostream>
+	"tarih.h"
+	<cstring>
+
+1369949506 source:c:\users\pc\desktop\yolla\ogrenci_dizisi.cpp
+	<iostream>
+	<cstring>
+	"ogrenci.h"
+	"ogrenci_dizisi.h"
+
+1369949354 source:c:\users\pc\desktop\yolla\tarih.cpp
+	"ogrenci.h"
+	<iostream>
+	"tarih.h"
+
+1369861536 source:c:\users\pc\desktop\yolla\string.cpp
+	"String.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	"ogrenci.h"
+	<assert.h>
+
+1369245759 source:c:\users\window7\desktop\yolla\bilgisayar.cpp
+	"String.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	"bilgisayar.h"
+
+1369863898 c:\users\window7\desktop\yolla\string.h
+	<iostream>
+
+1369245759 c:\users\window7\desktop\yolla\bilgisayar.h
+	"String.h"
+
+1369949241 source:c:\users\window7\desktop\yolla\main.cpp
+	<iostream>
+	"ogrenci.h"
+	"String.h"
+	"ogrenci_dizisi.h"
+	<stdio.h>
+
+1370015395 c:\users\window7\desktop\yolla\ogrenci.h
+	"String.h"
+	"tarih.h"
+	"bilgisayar.h"
+
+1369245587 c:\users\window7\desktop\yolla\ogrenci_dizisi.h
+
+1369949576 source:c:\users\window7\desktop\yolla\ogrenci.cpp
+	"ogrenci.h"
+	<iostream>
+	"tarih.h"
+	<cstring>
+
+1369248322 c:\users\window7\desktop\yolla\tarih.h
+	"String.h"
+	<iostream>
+
+1369949354 source:c:\users\window7\desktop\yolla\tarih.cpp
+	"ogrenci.h"
+	<iostream>
+	"tarih.h"
+
+1369861536 source:c:\users\window7\desktop\yolla\string.cpp
+	"String.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	"ogrenci.h"
+	<assert.h>
+
+1369994061 source:c:\users\window7\desktop\yolla\ogrenci_dizisi.cpp
+	<iostream>
+	<cstring>
+	"ogrenci.h"
+	"ogrenci_dizisi.h"
+
+1369245759 source:c:\users\elanur\desktop\yolla\bilgisayar.cpp
+	"String.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	"bilgisayar.h"
+
+1369863898 c:\users\elanur\desktop\yolla\string.h
+	<iostream>
+
+1369245759 c:\users\elanur\desktop\yolla\bilgisayar.h
+	"String.h"
+
+1370018160 source:c:\users\elanur\desktop\yolla\ogrenci.cpp
+	"ogrenci.h"
+	<iostream>
+	"tarih.h"
+	<cstring>
+
+1370015395 c:\users\elanur\desktop\yolla\ogrenci.h
+	"String.h"
+	"tarih.h"
+	"bilgisayar.h"
+
+1369248322 c:\users\elanur\desktop\yolla\tarih.h
+	"String.h"
+	<iostream>
+
+1369994061 source:c:\users\elanur\desktop\yolla\ogrenci_dizisi.cpp
+	<iostream>
+	<cstring>
+	"ogrenci.h"
+	"ogrenci_dizisi.h"
+
+1369245587 c:\users\elanur\desktop\yolla\ogrenci_dizisi.h
+
+1369861536 source:c:\users\elanur\desktop\yolla\string.cpp
+	"String.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	"ogrenci.h"
+	<assert.h>
+
+1369949354 source:c:\users\elanur\desktop\yolla\tarih.cpp
+	"ogrenci.h"
+	<iostream>
+	"tarih.h"
+
+1369245759 source:c:\users\taner aydogan\desktop\yolla\yolla\bilgisayar.cpp
+	"String.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	"bilgisayar.h"
+
+1369863898 c:\users\taner aydogan\desktop\yolla\yolla\string.h
+	<iostream>
+
+1369245759 c:\users\taner aydogan\desktop\yolla\yolla\bilgisayar.h
+	"String.h"
+
+1370018160 source:c:\users\taner aydogan\desktop\yolla\yolla\ogrenci.cpp
+	"ogrenci.h"
+	<iostream>
+	"tarih.h"
+	<cstring>
+
+1370015395 c:\users\taner aydogan\desktop\yolla\yolla\ogrenci.h
+	"String.h"
+	"tarih.h"
+	"bilgisayar.h"
+
+1369248322 c:\users\taner aydogan\desktop\yolla\yolla\tarih.h
+	"String.h"
+	<iostream>
+
+1370203965 source:c:\users\taner aydogan\desktop\yolla\yolla\ogrenci_dizisi.cpp
+	<iostream>
+	<cstring>
+	"ogrenci.h"
+	"ogrenci_dizisi.h"
+
+1370203689 c:\users\taner aydogan\desktop\yolla\yolla\ogrenci_dizisi.h
+
+1369949354 source:c:\users\taner aydogan\desktop\yolla\yolla\tarih.cpp
+	"ogrenci.h"
+	<iostream>
+	"tarih.h"
+
+1369861536 source:c:\users\taner aydogan\desktop\yolla\yolla\string.cpp
+	"String.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+	"ogrenci.h"
+	<assert.h>
+
+1370203952 source:c:\users\taner aydogan\desktop\yolla\yolla\main.cpp
+	<iostream>
+	"ogrenci.h"
+	"String.h"
+	"ogrenci_dizisi.h"
+	<stdio.h>
+
